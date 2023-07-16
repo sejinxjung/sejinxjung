@@ -2,27 +2,30 @@
 
 <h1>Hello,&nbsp;Sejin</h1>
 <h3>Web3 Product Designer</h3>
-배움을 좋아하는 프로덕트 디자이너.<br/>재밌는 걸 사부작 사부작 만들고 있습니다.<br/>
+배움을 좋아하는 프로덕트 디자이너.<br/>재밌는 걸 사부작사부작 만들고 있습니다.<br/>
 <br/>
 <div>
   <a href="https://github.com/sejinxjung">
     <img src="https://img.shields.io/badge/GitHub @sejinxjung-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/0x3den">
+  <a href="https://www.linkedin.com/in/sejinjung/">
+    <img src="https://img.shields.io/badge/LinkedIn @sejinjung-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+  </a>
+</div>
+<div>
+ <a href="https://twitter.com/0x3den">
     <img src="https://img.shields.io/badge/Twitter @0x3den-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
   <a href="https://medium.com/@0x3den">
     <img src="https://img.shields.io/badge/Medium @0x3den-000000?style=for-the-badge&logo=Medium&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/sejinjung/">
-    <img src="https://img.shields.io/badge/LinkedIn @sejinjung-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-  </a>
-</div><br/><br/>
+</div>
+<br/><br/>
 
 <h3>Strengths</h3>
 
 - 🔥 일단 실행하는 편, 시작했으면 끝을 보기 위해 노력해요
-- 🔍 대부분의 툴을 독학으로, 구글과 스택오버플로우는 최고의 선생님
+- 🔍 대부분의 툴을 독학으로, 구글과 스택 오버플로우는 최고의 선생님
 - 🤔 논리와 응용에 강해요
 - 🥰 기획부터 개발까지, 팀원의 소중함을 느껴요
 - ⏰ 제한된 조건에 최고의 성과를 내는데 강해요
@@ -53,7 +56,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejinxjung&layout=compact"><br><br>
 
 <h2>Development Journey</h2>
-디자인 작업물이 그래픽에서 그치는 데에 아쉬움을 느껴 시작한 개발, 어쩌다보니 꾸준히 작업 중입니다.
+디자인 작업물이 그래픽에서 그치는 데에 아쉬움을 느껴 시작한 개발, 어쩌다 보니 꾸준히 작업 중입니다.
 <h3>2020</h3>
 <div>
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
