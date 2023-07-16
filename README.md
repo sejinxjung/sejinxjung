@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=Webflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=black"/>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AdobeAfter Effects-9999FF?style=for-the-badge&logo=AdobeAfterEffects&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=for-the-badge&logo=AdobeAfterEffects&logoColor=black"/>
 </div>
 <br/>
 <h3>Development Skills</h3>
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
 </div><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejinxjung&layout=compact"><br><br>
 
@@ -98,7 +98,7 @@
 <div>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
 </div>
 
 - 포트폴리오 사이트 이전 작업 (Headless CMS 적용)
