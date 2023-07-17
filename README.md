@@ -28,7 +28,7 @@
 - 🔍 대부분의 툴을 독학으로, 구글과 스택 오버플로우는 최고의 선생님
 - 🤔 논리와 응용에 강해요
 - 🥰 기획부터 개발까지, 팀원의 소중함을 느껴요
-- ⏰ 제한된 조건에 최고의 성과를 내는데 강해요
+- ⏰ 제한된 조건에서 최선의 성과를 내는데 강해요
 <br/>
 <h3>Design Skills</h3>
 <div>
@@ -90,12 +90,12 @@
 <h3>2022</h3>
 <div>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white"/>
-</div>
   <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=Webflow&logoColor=white"/>
- 
+</div>
+
 - 사내 Solidity 스터디 참여
-- Nocode Tool (Webflow, Framer) 를 통한 랜딩 페이지 구현
+- No Code Tool (Webflow, Framer)를 통한 랜딩 페이지 구현
 
 <h3>2023</h3>
 <div>
