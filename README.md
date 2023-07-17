@@ -89,13 +89,13 @@
 
 <h3>2022</h3>
 <div>
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=Webflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white"/>
 </div>
-
-- Nocode Tool (Webflow, Framer) 를 통한 랜딩 페이지 구현 
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=Webflow&logoColor=white"/>
+ 
 - 사내 Solidity 스터디 참여
+- Nocode Tool (Webflow, Framer) 를 통한 랜딩 페이지 구현
 
 <h3>2023</h3>
 <div>
