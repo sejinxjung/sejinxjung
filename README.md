@@ -53,7 +53,6 @@
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
 </div><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejinxjung&layout=compact"><br><br>
 
 <h2>Development Journey</h2>
 디자인 작업물이 그래픽에서 그치는 데에 아쉬움을 느껴 시작한 개발, 어쩌다 보니 꾸준히 작업 중입니다.
