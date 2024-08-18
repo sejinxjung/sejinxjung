@@ -57,18 +57,40 @@
 
 <h2>Development Journey</h2>
 디자인 작업물이 그래픽에서 그치는 데에 아쉬움을 느껴 시작한 개발, 벌써 5년째 꾸준히 작업 중입니다.
-<h3>2020</h3>
+
+<h3>2024</h3>
 <div>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=Sanity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white"/>
 </div>
 
-- [클래스 101]  React Native 클론 코딩으로 개발 입문
-- [한화 드림인 iOS 아카데미] 수강생 선정 및 수료(Swift), <a href="https://apps.apple.com/vg/app/스위칭/id1542290155">앱 런칭</a>
-- [노마드 코더스] CSS 챌린지 참여, 우수 선정
+- Framer를 활용한 랜딩 페이지 구현
+- 포트폴리오 웹사이트 리뉴얼 작업
+- SQLd 자격증 취득
+
+<h3>2023</h3>
+<div>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=Sanity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white"/>
+</div>
+
+- 포트폴리오 웹사이트 이전 작업
+- Framer를 활용한 랜딩 페이지 구현
+
+<h3>2022</h3>
+<div>
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=Webflow&logoColor=white"/>
+</div>
+
+- 사내 Solidity 스터디 참여
+- No Code Tool (Webflow, Framer)를 활용한 랜딩 페이지 구현
 
 <h3>2021</h3>
 <div>
@@ -86,37 +108,23 @@
 - [졸업전시회] <a href="https://blinker2021.vercel.app/">졸업 작품</a>을 React JS로 구현
 - [네이버 부스트코스] Web UI 코칭 스터디 이수
 - [멋쟁이 사자처럼] python, django 경험 및 토이 프로젝트 진행
-
-<h3>2022</h3>
+  
+<h3>2020</h3>
 <div>
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=Webflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 </div>
 
-- 사내 Solidity 스터디 참여
-- No Code Tool (Webflow, Framer)를 활용한 랜딩 페이지 구현
+- [클래스 101]  React Native 클론 코딩으로 개발 입문
+- [한화 드림인 iOS 아카데미] 수강생 선정 및 수료(Swift), <a href="https://apps.apple.com/vg/app/스위칭/id1542290155">앱 런칭</a>
+- [노마드 코더스] CSS 챌린지 참여, 우수 선정
 
-<h3>2023</h3>
-<div>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=Sanity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white"/>
-</div>
 
-- 포트폴리오 웹사이트 이전 작업
-- Framer를 활용한 랜딩 페이지 구현
 
-<h3>2024</h3>
-<div>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=Sanity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white"/>
-</div>
 
-- Framer를 활용한 랜딩 페이지 구현
-- 포트폴리오 웹사이트 리뉴얼 작업
-- SQL 스터디
+
+
+
