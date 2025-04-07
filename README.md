@@ -1,5 +1,3 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsejinxjung%2Fsejinxjung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
 <h1>Hell0 x 3den</h1>
 <h3>Web3 Product Designer</h3>
 배움을 좋아하는 프로덕트 디자이너.<br/>재밌는 걸 사부작사부작 만들고 있습니다.<br/>
