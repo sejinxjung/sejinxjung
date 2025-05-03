@@ -1,6 +1,6 @@
 <h1>Hell0 x 3den</h1>
 <h3>Web3 Product Designer</h3>
-배움을 좋아하는 프로덕트 디자이너.<br/>재밌는 걸 사부작사부작 만들고 있습니다.<br/>
+배움을 좋아하는 프로덕트 메이커.<br/>재밌는 걸 사부작사부작 만들고 있습니다.<br/>
 <br/>
 <div>
   <a href="https://github.com/sejinxjung"><img src="https://img.shields.io/badge/GitHub @sejinxjung-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
