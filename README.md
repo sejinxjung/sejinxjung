@@ -1,5 +1,5 @@
 <h1>Hell0 x 3den</h1>
-<h3>Web3 Product Manager</h3>
+<h3>Web3 Product Designer</h3>
 배움을 좋아하는 프로덕트 메이커.<br/>재밌는 걸 사부작사부작 만들고 있습니다.<br/>
 <br/>
 <div>
@@ -7,6 +7,7 @@
   <a href="https://www.linkedin.com/in/sejinjung/"><img src="https://img.shields.io/badge/LinkedIn @sejinjung-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://twitter.com/0x3den"><img src="https://img.shields.io/badge/Twitter @0x3den-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="https://medium.com/@0x3den"><img src="https://img.shields.io/badge/Medium @0x3den-000000?style=for-the-badge&logo=Medium&logoColor=white"/></a>
+  <a href="https://www.figma.com/@0x3den"><img src="https://img.shields.io/badge/Figma @0x3den-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/></a>
 </div>
 <br/><br/>
 
@@ -119,10 +120,3 @@
 - [클래스 101]  React Native 클론 코딩으로 개발 입문
 - [한화 드림인 iOS 아카데미] 수강생 선정 및 수료(Swift), <a href="https://apps.apple.com/vg/app/스위칭/id1542290155">앱 런칭</a>
 - [노마드 코더스] CSS 챌린지 참여, 우수 선정
-
-
-
-
-
-
-
