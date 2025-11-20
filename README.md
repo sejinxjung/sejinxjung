@@ -57,6 +57,18 @@
 <h2>Development Journey</h2>
 디자인 작업물이 그래픽에서 그치는 데에 아쉬움을 느껴 시작한 개발, 벌써 5년째 꾸준히 작업 중입니다.
 
+<h3>2025</h3>
+<div>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=Sanity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white"/>
+</div>
+- Framer를 활용한 웹페이지 구현
+  - <a href="https://www.sapienta.xyz/">회사 소개 페이지 구현</a>
+  - <a href="https://www.sapienta.xyz/report">반응형 리포트 구현</a>
+
 <h3>2024</h3>
 <div>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
@@ -66,7 +78,8 @@
   <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white"/>
 </div>
 
-- Framer를 활용한 랜딩 페이지 구현
+- Framer를 활용한 웹페이지 구현
+  - <a href="https://www.alt.town/">서비스 소개 페이지 구현</a>
 - 포트폴리오 웹사이트 리뉴얼 작업
 - SQLd 자격증 취득
 
@@ -80,7 +93,9 @@
 </div>
 
 - 포트폴리오 웹사이트 이전 작업
-- Framer를 활용한 랜딩 페이지 구현
+- Framer를 활용한 랜딩 페이지 구현 
+  - <a href="https://www.bitblue.team/">회사 소개 페이지 구현</a>
+  - <a href="https://www.alt.town/">서비스 소개 페이지 구현</a>
 
 <h3>2022</h3>
 <div>
