@@ -65,9 +65,10 @@
   <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=Sanity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white"/>
 </div>
+
 - Framer를 활용한 웹페이지 구현
-  - <a href="https://www.sapienta.xyz/">회사 소개 페이지 구현</a>
-  - <a href="https://www.sapienta.xyz/report">반응형 리포트 구현</a>
+  - <a href="https://www.sapienta.xyz/">회사 소개 페이지</a> 구현
+  - <a href="https://www.sapienta.xyz/report">반응형 리포트</a> 구현
 
 <h3>2024</h3>
 <div>
@@ -79,7 +80,7 @@
 </div>
 
 - Framer를 활용한 웹페이지 구현
-  - <a href="https://www.alt.town/">서비스 소개 페이지 구현</a>
+  - <a href="https://www.alt.town/">서비스 소개 페이지</a> 구현
 - 포트폴리오 웹사이트 리뉴얼 작업
 - SQLd 자격증 취득
 
