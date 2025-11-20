@@ -118,5 +118,5 @@
 </div>
 
 - [클래스 101]  React Native 클론 코딩으로 개발 입문
-- [한화 드림인 iOS 아카데미] 수강생 선정 및 수료(Swift), <a href="https://apps.apple.com/vg/app/스위칭/id1542290155">앱 런칭</a>
+- [한화 드림인 iOS 아카데미] 수강생 선정 및 수료(Swift), 스위칭 앱 런칭
 - [노마드 코더스] CSS 챌린지 참여, 우수 선정
