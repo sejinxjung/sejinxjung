@@ -1,5 +1,5 @@
 <h1>Hell0 x 3den</h1>
-<h3>Product Manager</h3>
+<h3>Product Builder</h3>
 배움을 좋아하는 프로덕트 메이커.<br/>
 기획부터 개발, 운영까지 폭넓게 경험하며, 문제를 구조화하고 제품으로 연결하는 과정에 강점이 있습니다.<br/>
 새로운 아이디어를 작은 실험으로 빠르게 구현하고, 지속적으로 다듬어가는 방식을 지향합니다.<br/>
@@ -13,9 +13,15 @@
 </div>
 <br/><br/>
 
+<h2>Currently</h2>
+<ul>
+  <li>Director @sapienta</li>
+</ul>
+
 <h2>Strengths</h2>
 <ul>
-  <li>🔥 아이디어를 빠르게 구조화하고, 곧바로 프로토타입까지 옮기는 실행 속도</li>
+  <li>🔥 아이디어를 빠르게 구조화하고, 곧바로 동작하는 형태로 옮기는 실행력</li>
+  <li>🤖 AI 도구(Claude Code 등)를 활용한 빠른 프로토타이핑과 자동화</li>
   <li>📈 데이터를 기반으로 문제를 정의하고, 최소 리소스에서 최대 효율을 찾는 사고 방식</li>
   <li>🧩 기획–디자인–개발–운영을 모두 경험하며 쌓은 전체 프로세스 이해도</li>
   <li>🛠 다양한 툴을 직접 탐색하며 독학해온 경험을 바탕으로, 새로운 시스템을 빠르게 구축하는 적응력</li>
@@ -26,14 +32,21 @@
 
 <h2>What I Do</h2>
 <ul>
-  <li>서비스의 방향성과 구조를 정리하고, 초기 제품 패키지를 빠르게 구성하기</li>
-  <li>Figma–Framer–Next.js를 활용해 초기 버전의 흐름을 실제 사용 가능한 형태로 옮기기</li>
+  <li>제품의 방향성과 구조를 잡고, MVP를 빠르게 만들어 검증하기</li>
+  <li>AI 도구를 활용해 개발 속도 높이기(Claude Code)</li>
+  <li>Figma–Framer–Next.js로 아이디어를 실제 동작하는 형태로 구현하기</li>
   <li>운영 효율화를 위한 워크플로우 설계 및 자동화 환경 구축</li>
 </ul>
 <br/>
 
 
 <h2>Skills</h2>
+<h3>AI & Workflow</h3>
+<div>
+  <img src="https://img.shields.io/badge/Claude Code-000000?style=for-the-badge&logo=Anthropic&logoColor=white"/>
+</div>
+<br/>
+
 <h3>Design Skills</h3>
 <div>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
@@ -67,9 +80,9 @@
 
 <h2>Recent Focus</h2>
 <ul>
-  <li>Next.js 기반 웹사이트 및 내부 툴 개선</li>
+  <li>Claude Code를 활용한 개발 워크플로우 구축</li>
   <li>Framer 기반 인터랙티브 페이지 제작</li>
-  <li>데이터 정규화, 자동화 스크립트 작성, 운영 효율화</li>
+  <li>자동화 스크립트, 내부 툴 개발</li>
 </ul>
 <br/>
 
