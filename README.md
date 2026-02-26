@@ -7,9 +7,10 @@ Experienced across planning, design, development, and operations — with a stre
 <div>
   <a href="https://github.com/sejinxjung"><img src="https://img.shields.io/badge/GitHub @sejinxjung-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sejinxjung/"><img src="https://img.shields.io/badge/LinkedIn @sejinxjung-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://twitter.com/sejinxjung"><img src="https://img.shields.io/badge/Twitter @sejinxjung(en)-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="https://medium.com/@sejinxjung"><img src="https://img.shields.io/badge/Medium @sejinxjung-000000?style=for-the-badge&logo=Medium&logoColor=white"/></a>
-  <br/>
-  <a href="https://twitter.com/0x3den"><img src="https://img.shields.io/badge/Twitter @0x3den-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <br/>   
+  <a href="https://twitter.com/0x3den"><img src="https://img.shields.io/badge/Twitter @0x3den(kr)-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="https://www.figma.com/@0x3den"><img src="https://img.shields.io/badge/Figma @0x3den-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/></a>
 </div>
 <br/>
@@ -67,6 +68,7 @@ Learned to code because I wanted my designs to actually work. 6 years in and sti
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 </div>
 
+- <a href="https://www.sapienta.world">sapienta.world landing page</a> 
 - <a href="https://gaemi.world">Gaemi World</a> — US stock & ETF comparison service for Korean investors
 
 
