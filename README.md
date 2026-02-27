@@ -68,7 +68,7 @@ Learned to code because I wanted my designs to actually work. 6 years in and sti
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 </div>
 
-- <a href="https://www.sapienta.world">sapienta.world landing page</a> 
+- <a href="https://sapienta.world/">sapienta.world landing page</a> 
 - <a href="https://gaemi.world">Gaemi World</a> — US stock & ETF comparison service for Korean investors
 
 
