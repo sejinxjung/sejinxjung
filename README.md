@@ -70,6 +70,8 @@ Learned to code because I wanted my designs to actually work. 6 years in and sti
 
 - <a href="https://sapienta.world/">sapienta.world landing page</a> 
 - <a href="https://gaemi.world">Gaemi World</a> — US stock & ETF comparison service for Korean investors
+- <a href="https://www.pokeit.app/">POKEIT</a> — Visual QA Chrome extension for AI-powered development
+- Sapienta Ops — Internal ops platform with kanban task board, project tracking, docs, meeting notes, calendar, and MCP server integration for AI agents
 
 
 <h3>2025</h3>
