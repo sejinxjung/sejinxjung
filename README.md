@@ -7,11 +7,10 @@ Experienced across planning, design, development, and operations — with a stre
 <div>
   <a href="https://github.com/sejinxjung"><img src="https://img.shields.io/badge/GitHub @sejinxjung-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sejinxjung/"><img src="https://img.shields.io/badge/LinkedIn @sejinxjung-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-  <a href="https://twitter.com/sejinxjung"><img src="https://img.shields.io/badge/Twitter @sejinxjung(en)-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://medium.com/@sejinxjung"><img src="https://img.shields.io/badge/Medium @sejinxjung-000000?style=for-the-badge&logo=Medium&logoColor=white"/></a>
-  <br/>   
-  <a href="https://twitter.com/0x3den"><img src="https://img.shields.io/badge/Twitter @0x3den(kr)-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+    <br/> 
   <a href="https://www.figma.com/@0x3den"><img src="https://img.shields.io/badge/Figma @0x3den-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/></a>
+  <a href="https://twitter.com/0x3den"><img src="https://img.shields.io/badge/Twitter @0x3den-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://medium.com/@sejinxjung"><img src="https://img.shields.io/badge/Medium @sejinxjung-000000?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </div>
 <br/>
 
@@ -32,10 +31,13 @@ Experienced across planning, design, development, and operations — with a stre
 <br/>
 
 <h2>Skills</h2>
-<h3>AI & Workflow</h3>
+<h3>Development Skills</h3>
 <div>
-  <img src="https://img.shields.io/badge/Claude Code-000000?style=for-the-badge&logo=Anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 </div>
+<br/>
 
 <h3>Design Skills</h3>
 <div>
@@ -47,14 +49,6 @@ Experienced across planning, design, development, and operations — with a stre
   <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=Webflow&logoColor=white"/>
 </div>
-
-<h3>Development Skills</h3>
-<div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-</div>
-<br/>
 <br/>
 
 
@@ -63,7 +57,6 @@ Learned to code because I wanted my designs to actually work. 6 years in and sti
 
 <h3>2026</h3>
 <div>
-  <img src="https://img.shields.io/badge/Claude Code-000000?style=for-the-badge&logo=Anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 </div>
@@ -137,6 +130,6 @@ Learned to code because I wanted my designs to actually work. 6 years in and sti
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
 </div>
 
-- [Class101] Started coding with React Native clone project
+- [Class101 Class] Began my coding journey with React Native clone project
 - [Hanwha Dream-in iOS Academy] Completed Swift course, shipped Switching app
-- [Nomad Coders] CSS Challenge — selected as top participant
+- [Nomad Coders Challenge] CSS Challenge — selected as top participant
