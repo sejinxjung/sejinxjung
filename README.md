@@ -8,9 +8,9 @@ Experienced across planning, design, development, and operations — with a stre
   <a href="https://github.com/sejinxjung"><img src="https://img.shields.io/badge/GitHub @sejinxjung-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sejinxjung/"><img src="https://img.shields.io/badge/LinkedIn @sejinxjung-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
     <br/> 
-  <a href="https://www.figma.com/@0x3den"><img src="https://img.shields.io/badge/Figma @0x3den-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/></a>
-  <a href="https://twitter.com/0x3den"><img src="https://img.shields.io/badge/Twitter @0x3den-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://www.figma.com/@sejinxjung"><img src="https://img.shields.io/badge/Figma @sejinxjung-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/></a>
   <a href="https://medium.com/@sejinxjung"><img src="https://img.shields.io/badge/Medium @sejinxjung-000000?style=for-the-badge&logo=Medium&logoColor=white"/></a>
+  <a href="https://twitter.com/0x3den"><img src="https://img.shields.io/badge/Twitter @0x3den-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 </div>
 <br/>
 
